@@ -12,6 +12,7 @@
 		71827CCC2072BEB700A7167D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71827CCA2072BEB700A7167D /* Main.storyboard */; };
 		71827CCE2072BEB700A7167D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 71827CCD2072BEB700A7167D /* Assets.xcassets */; };
 		71827CD12072BEB700A7167D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71827CCF2072BEB700A7167D /* LaunchScreen.storyboard */; };
+		71827CD92072C50A00A7167D /* Restaurant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71827CD82072C50A00A7167D /* Restaurant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		71827CCD2072BEB700A7167D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		71827CD02072BEB700A7167D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		71827CD22072BEB700A7167D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		71827CD82072C50A00A7167D /* Restaurant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				71827CC62072BEB700A7167D /* AppDelegate.swift */,
 				71827CC82072BEB700A7167D /* ViewController.swift */,
 				71827CCA2072BEB700A7167D /* Main.storyboard */,
+				71827CD82072C50A00A7167D /* Restaurant.swift */,
 				71827CCD2072BEB700A7167D /* Assets.xcassets */,
 				71827CCF2072BEB700A7167D /* LaunchScreen.storyboard */,
 				71827CD22072BEB700A7167D /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				71827CC92072BEB700A7167D /* ViewController.swift in Sources */,
 				71827CC72072BEB700A7167D /* AppDelegate.swift in Sources */,
+				71827CD92072C50A00A7167D /* Restaurant.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
